@@ -1,0 +1,10 @@
+{
+  "description": "Subul Academy offers a comprehensive Arabic educational platform for students, parents, and teachers, facilitating lesson scheduling, progress tracking, and financial management.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
